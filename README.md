@@ -49,6 +49,8 @@
 - **VBoxManager for Linux** (Under Contruction 🔨😜)
   - Will update this soon
 
+> **NOTE** : Download the Ubuntu 18.04 Mini ISO image from release and do an **"Unattended OS Installation"**. **"Preseed file"** in the ISO is attached
+
 ---
 
 ## **Preseeding Debian ISO**
